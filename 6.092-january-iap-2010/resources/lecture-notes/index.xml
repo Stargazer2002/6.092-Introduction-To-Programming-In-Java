@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: Types, Variables, Operators</title>
+      <link>/resources/mit6_092iap10_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_lec01/data.json</guid>
+      <description>Lecture presentation on programming in Java. Topics include: the computer, CPU instructions, programming languages, Java, program structure, output, types, variables, and operators.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: More types, Methods, Conditionals</title>
+      <link>/resources/mit6_092iap10_lec02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_lec02/data.json</guid>
+      <description>Lecture presentation on programming in Java. Topics include: types, variables, operators, division, order of operation, methods, parameters, return values, mathematical functions, and conditionals.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Loops,  Arrays</title>
+      <link>/resources/mit6_092iap10_lec03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_lec03/data.json</guid>
+      <description>Lecture presentation on programming in Java. Topics include: good programming style, frequent issues, loops, and arrays.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Classes and Objects</title>
+      <link>/resources/mit6_092iap10_lec04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_lec04/data.json</guid>
+      <description>Lecture presentation on programming in Java. Topics include: object oriented programming, defining classes, using classes, constructors, methods, accessing fields, primitives versus references, references versus values, and static types and methods.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Access Control, Class Scope, Packages, Java API</title>
+      <link>/resources/mit6_092iap10_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_lec05/data.json</guid>
+      <description>Lecture presentation on programming in Java. Topics include: access control, class scope, packages, and the Java API.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6: Design, Debugging, Interfaces</title>
+      <link>/resources/mit6_092iap10_lec06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_lec06/data.json</guid>
+      <description>Lecture presentation on programming in Java. Topics include: good program design, consistency, naming, good class design, debugging, psuedocode, design, testing, intervals, tools, assertions, methods, objects, and Java interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Review, Exceptions, IO</title>
+      <link>/resources/mit6_092iap10_lec07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_lec07/data.json</guid>
+      <description>Lecture presentation on programming in Java. Topics include: interfaces, sprites, inheritance, exceptions, and file input and output.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description> Abbreviations API = Application Programming Interface
+I/O = input/output
+LEC # TOPICS FILES 1 Types, variables, operators (PDF) 2 More types, methods, conditionals (PDF) 3 Loops and arrays (PDF) 4 Objects and classes (PDF) 5 Access control, class scope, packages, Java API (PDF) 6 Design, debugging, interfaces (PDF) 7 Inheritance, exceptions, file I/O (PDF) </description>
+    </item>
+    
+  </channel>
+</rss>

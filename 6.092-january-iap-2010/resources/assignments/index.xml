@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 1</title>
+      <link>/resources/mit6_092iap10_assn01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_assn01/data.json</guid>
+      <description>Problem set to create a Java program that computes the distance an object will fall in Earth&amp;rsquo;s gravity.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 2</title>
+      <link>/resources/mit6_092iap10_assn02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_assn02/data.json</guid>
+      <description>Problem set on building a Java program to calculate pay for hourly employees.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 3</title>
+      <link>/resources/mit6_092iap10_assn03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_assn03/data.json</guid>
+      <description>Problem set on writing a Java method that takes as input an array of integers and returns the index corresponding to the lowest.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 4</title>
+      <link>/resources/mit6_092iap10_assn04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_assn04/data.json</guid>
+      <description>Problem set on building an electronic rental system for libraries with Java.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 5</title>
+      <link>/resources/mit6_092iap10_assn05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_assn05/data.json</guid>
+      <description>Problem set on programming in Java, building software with objects, Java&amp;rsquo;s built-in graphics, containers, and animation.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 6: Graphics strikes back!</title>
+      <link>/resources/mit6_092iap10_assn06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_assn06/data.json</guid>
+      <description>Problem set on programming in Java, separating the functionality of a class into two classes, implementing interfaces, multiple movement patterns, creating interfaces, and reducing duplication.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 7: Magic Squares!</title>
+      <link>/resources/mit6_092iap10_assn07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_092iap10_assn07/data.json</guid>
+      <description>Problem set on writing a Java program to check that all rows in a magic square sum to the same constant.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>ASSN # ASSIGNMENTS SUPPORTING FILES 1 GravityCalculator (PDF) GravityCalculator.java (JAVA) 2 FooCorporation (PDF) 3 Marathon (PDF) Marathon.java (JAVA) 4 Library (PDF) Book.java (JAVA)
+Library.java (JAVA)
+5 Graphics! (PDF) initial.png (PNG)
+SimpleDraw.java (JAVA)
+BouncingBox.java (JAVA)
+DrawGraphics.java (JAVA)
+6 Graphics strikes back! (PDF) assn06.zip (ZIP) (This ZIP file contains: 6 .java files.) 7 Magic squares (PDF) Mercury.txt (TXT)
+Luna.txt (TXT)
+Solutions (JAVA)</description>
+    </item>
+    
+    <item>
+      <title>assn06</title>
+      <link>/resources/assn06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assn06/data.json</guid>
+      <description>Supporting files for a problem set on programming in Java, separating the functionality of a class into two classes, implementing interfaces, multiple movement patterns, creating interfaces, and reducing duplication.</description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>/resources/book/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/book/data.json</guid>
+      <description>Supporting file for a problem set on building an electronic rental system for libraries with Java.</description>
+    </item>
+    
+    <item>
+      <title>BouncingBox</title>
+      <link>/resources/bouncingbox/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/bouncingbox/data.json</guid>
+      <description>Supporting file for a problem set on programming in Java, building software with objects, Java&amp;rsquo;s built-in graphics, containers, and animation.</description>
+    </item>
+    
+    <item>
+      <title>DrawGraphics</title>
+      <link>/resources/drawgraphics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/drawgraphics/data.json</guid>
+      <description>Supporting file for a problem set on programming in Java, building software with objects, Java&amp;rsquo;s built-in graphics, containers, and animation.</description>
+    </item>
+    
+    <item>
+      <title>GravityCalculator</title>
+      <link>/resources/gravitycalculator/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/gravitycalculator/data.json</guid>
+      <description>Supporting file for a problem set to create a Java program that computes the distance an object will fall in Earth&amp;rsquo;s gravity.</description>
+    </item>
+    
+    <item>
+      <title>initial</title>
+      <link>/resources/initial/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/initial/data.json</guid>
+      <description>Supporting graphic file for a problem set on programming in Java, building software with objects, Java&amp;rsquo;s built-in graphics, containers, and animation.</description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>/resources/library/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/library/data.json</guid>
+      <description>Supporting file for a problem set on building an electronic rental system for libraries with Java.</description>
+    </item>
+    
+    <item>
+      <title>Luna</title>
+      <link>/resources/luna/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/luna/data.json</guid>
+      <description>Supporting data file for a problem set on writing a Java program to check that all rows in a magic square sum to the same constant.</description>
+    </item>
+    
+    <item>
+      <title>MagicSquares</title>
+      <link>/resources/magicsquares/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/magicsquares/data.json</guid>
+      <description>Solutions file for a problem set on writing a Java program to check that all rows in a magic square sum to the same constant.</description>
+    </item>
+    
+    <item>
+      <title>Marathon</title>
+      <link>/resources/marathon/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/marathon/data.json</guid>
+      <description>Supporting file for a problem set on writing a Java method that takes as input an array of integers and returns the index corresponding to the lowest.</description>
+    </item>
+    
+    <item>
+      <title>Mercury</title>
+      <link>/resources/mercury/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mercury/data.json</guid>
+      <description>Supporting data file for a problem set on writing a Java program to check that all rows in a magic square sum to the same constant.</description>
+    </item>
+    
+    <item>
+      <title>SimpleDraw</title>
+      <link>/resources/simpledraw/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/simpledraw/data.json</guid>
+      <description>Supporting file for a problem set on programming in Java, building software with objects, Java&amp;rsquo;s built-in graphics, containers, and animation.</description>
+    </item>
+    
+  </channel>
+</rss>
