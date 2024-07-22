@@ -4,5 +4,9 @@ public class Hello3 {
         System.out.println(foo);
         foo = "Something else";
         System.out.println(foo);
+        double badPi = 3.14;
+        boolean isJanuary = true;
+        System.out.println(badPi);
+        System.out.println(isJanuary);
     }
 }

@@ -6,5 +6,8 @@ public class DoMath2 {
         copy = copy / 2.0;
         System.out.println(copy);
         System.out.println(score);
+        String text = "hello" + " world";
+        text = text + " number " + 5;
+        System.out.println(text);
     }
 }
